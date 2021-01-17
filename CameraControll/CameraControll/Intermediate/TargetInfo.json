@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CameraControll",
+			"Path": "D:\\Study\\Git\\UE4\\LearningUE4\\CameraControll\\CameraControll\\Source\\CameraControll.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CameraControllEditor",
+			"Path": "D:\\Study\\Git\\UE4\\LearningUE4\\CameraControll\\CameraControll\\Source\\CameraControllEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

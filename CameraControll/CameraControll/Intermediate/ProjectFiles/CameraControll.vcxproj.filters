@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\CameraControll.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{31AB987E-6E27-4974-8308-13BAB6561240}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CameraControll.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\CameraControllEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{6A5CC7F7-37BF-4A6F-97C5-E807DD4D5AC5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\CameraControll">
+      <UniqueIdentifier>{4006BF76-E904-4934-A475-C98283694397}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\CameraControll\CameraControll.Build.cs">
+      <Filter>Source\CameraControll</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\CameraControll\CameraControll.cpp">
+      <Filter>Source\CameraControll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CameraControll\CameraControll.h">
+      <Filter>Source\CameraControll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CameraControll\CameraControllCharacter.cpp">
+      <Filter>Source\CameraControll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CameraControll\CameraControllCharacter.h">
+      <Filter>Source\CameraControll</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\CameraControll\CameraControllGameMode.cpp">
+      <Filter>Source\CameraControll</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\CameraControll\CameraControllGameMode.h">
+      <Filter>Source\CameraControll</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Study\\Git\\UE4\\LearningUE4\\CameraControll\\CameraControll\\Source\\CameraControll\\CameraControll.Build.cs",
+		"D:\\Study\\Git\\UE4\\LearningUE4\\CameraControll\\CameraControll\\Source\\CameraControll.Target.cs",
+		"D:\\Study\\Git\\UE4\\LearningUE4\\CameraControll\\CameraControll\\Source\\CameraControllEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}

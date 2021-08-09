@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Study\\Git\\UE4\\LearningUE4\\LearnCPP\\Source\\LearnCPP\\LearnCPP.Build.cs",
+		"D:\\Study\\Git\\UE4\\LearningUE4\\LearnCPP\\Source\\LearnCPP.Target.cs",
+		"D:\\Study\\Git\\UE4\\LearningUE4\\LearnCPP\\Source\\LearnCPPEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.0"
+}

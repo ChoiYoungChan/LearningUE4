@@ -1,0 +1,2 @@
+D:\Study\Git\UE4\LearningUE4\LearningCPP\Intermediate\Build\Win64\UE4Editor\Development\LearningCPP\Definitions.LearningCPP.h
+D:\Study\Git\UE4\LearningUE4\LearningCPP\Source\LearningCPP\LearningCPP.h

@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\LearningCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{A8D9423C-4DC0-49F7-A687-7592A5931CC0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\LearningCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\LearningCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{F08DD136-F9E1-4A5E-AD2A-72AC03618A1E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\LearningCPP">
+      <UniqueIdentifier>{2E9D897C-A15A-480F-B70B-20CC6EB2887D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\LearningCPP\chair.cpp">
+      <Filter>Source\LearningCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningCPP\chair.h">
+      <Filter>Source\LearningCPP</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\LearningCPP\LearningCPP.Build.cs">
+      <Filter>Source\LearningCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\LearningCPP\LearningCPP.cpp">
+      <Filter>Source\LearningCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningCPP\LearningCPP.h">
+      <Filter>Source\LearningCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\LearningCPP\LearningCPPGameModeBase.cpp">
+      <Filter>Source\LearningCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\LearningCPP\LearningCPPGameModeBase.h">
+      <Filter>Source\LearningCPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,8 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Study\Git\UE4\LearningUE4).
+  Invalidating makefile for LearningCPPEditor (cl.exe modified)
+  Parsing headers for LearningCPPEditor
+    Running UnrealHeaderTool "D:\Study\Git\UE4\LearningUE4\LearningCPP\LearningCPP.uproject" "D:\Study\Git\UE4\LearningUE4\LearningCPP\Intermediate\Build\Win64\LearningCPPEditor\Development\LearningCPPEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\BossMonster\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  D:/Study/Git/UE4/LearningUE4/LearningCPP/Source/LearningCPP/chair.h(28) : LogCompile: Error: BlueprintReadWrite should not be used on private members
+  D:/Study/Git/UE4/LearningUE4/LearningCPP/Source/LearningCPP/chair.h(31) : LogCompile: Error: BlueprintReadWrite should not be used on private members
+  D:/Study/Git/UE4/LearningUE4/LearningCPP/Source/LearningCPP/chair.h(34) : LogCompile: Error: BlueprintReadWrite should not be used on private members
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(46,5): error MSB3073: ""D:\Study\TECH\UE4\Epic Games\UE_4.26\Engine\Build\BatchFiles\Build.bat" LearningCPPEditor Win64 Development -Project="D:\Study\Git\UE4\LearningUE4\LearningCPP\LearningCPP.uproject" -WaitMutex -FromMsBuild" 명령이 종료되었습니다(코드: 6).
